@@ -2,4 +2,5 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hadizah454&theme=carbonfox&date_format=%5BY.%5Dn.j&exclude_days=Mon)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hadizah454&theme=sunset-gradient&date_format=%5BY.%5Dn.j&exclude_days=Mon)](https://git.io/streak-stats)
+
